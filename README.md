@@ -50,7 +50,7 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/peeyushsingh4/Rasoimate.git
+bashgit clone https://github.com/Shrutii1609/Rasoimate.git
 cd Rasoimate
 
 Install dependencies
@@ -93,9 +93,9 @@ Open a Pull Request
 📄 License
 This project is open source and available under the MIT License.
 👨‍💻 Author
-Peeyush Singh
+Shruti Bhise
 
-GitHub: @peeyushsingh4
+
 
 🙏 Acknowledgments
 
